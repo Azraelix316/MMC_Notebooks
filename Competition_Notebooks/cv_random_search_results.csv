@@ -1,0 +1,1 @@
+horizon,iteration,n_folds,oof_wrmse,avg_best_trees,learning_rate,n_estimators,num_leaves,min_child_samples,feature_fraction,bagging_fraction,bagging_freq
